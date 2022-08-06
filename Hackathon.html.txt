@@ -39,6 +39,6 @@ The word brahmacharya stems literally from two components: Brahma, the deity rep
 <li>  It boosts immunity of the body.
 <li>By practicing celibacy, one can get to know about own self energy (Atma virya).
 <li>It decreases the bad qualities in a person like anger, pride, deceit and greed.
-<img src="Bramhacharya.jpg" height=300px width=300px style="float:right">
+<img src="C:\Users\CHINMAYA\Desktop\HTML Hackathon\Bramhacharya.jpg" height=300px width=300px style="float:right">
 </body>
 </html>
