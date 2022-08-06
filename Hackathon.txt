@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body{background-image:url("notepad watercolour.jpg");
+margin-left:15px;
+margin-right:15px;
+padding:15px;}
+div{
+background-color:black
+}
+p{
+color:maroon;
+fon-family: Times New Roman;
+font-size:15px;
+text-align:justify:
+}
+H1{
+color:Purple;
+text-align:center;
+}
+H2{
+color:chaitanya;
+text-align:left;
+}
+</style>
+</head>
+<body>
+<h1> Values From Vedas </h1>
+<img src="Swami.jpg" height=150px width=150px style="float:right">
+<h2> Values Of Brahmacharya: </h2>
+Brahmacharya is when a person completely controls his body and mind (chitta) through ascetic means.
+It is considered necessary for a monk's spiritual practice.
+The stage of life of the student, entailing study of the Vedas and complete celibacy, usually lasting for twelve years.
+The word brahmacharya stems literally from two components: Brahma, the deity representing the creative force (as part of the trinity of Hindu deities of Brahama as creation, Vishnu as preservation and Shiva as destruction).
+<h2> Values Of Brahmacharya: </h2>
+<ul type="circle">
+<li> It gives consciousness to mind and improves intellectuality.
+<li>  It boosts immunity of the body.
+<li>By practicing celibacy, one can get to know about own self energy (Atma virya).
+<li>It decreases the bad qualities in a person like anger, pride, deceit and greed.
+<img src="C:\Users\CHINMAYA\Desktop\HTML Hackathon\Bramhacharya.jpg" height=300px width=300px style="float:right">
+</body>
+</html>
